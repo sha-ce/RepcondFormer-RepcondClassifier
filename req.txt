@@ -1,0 +1,8 @@
+torch
+torchvision
+trochaudio
+matplotlib
+seaborn
+scikit-learn
+tqdm
+timm
